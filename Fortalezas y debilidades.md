@@ -27,7 +27,6 @@ Python es un lenguaje que permite crear tanto, aplicaciones web, aplicaciones de
 Existen muchos servidores que no soportan Python y en caso de hacerlo, su configuración suele ser compleja.
 ### Lentitud al ejecutar múltiples hilos. 
 A pesar de que no necesita compilarse, si quieres ejecutar múltiples hilos de programación puede que no aproveches toda la potencia de tu PC. Por ejemplo, pueden surgir errores por parte del intérprete o simplemente tener problemas para usar todos los núcleos del procesador.
-### Lentitud de ejecución. 
-Al tratarse de un lenguaje interpretado, el intérprete se encarga de convertir el código humano a código máquina en tiempo de ejecución, a diferencia de los lenguajes compilados que al compilar ya se ejecuta directamente el código máquina. Esta característica hace que al ejecutarse pueda tardar un poco más de lo habitual.
+
 
 
