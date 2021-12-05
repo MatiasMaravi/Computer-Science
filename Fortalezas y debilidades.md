@@ -21,10 +21,6 @@ Este lenguaje lo puedes emplear en varios sistemas operativos como Linux, Window
 Python es un lenguaje que permite crear tanto, aplicaciones web, aplicaciones de escritorio, aplicaciones de consola y hasta permite crear videojuegos, gracias a que posee una gran variedad de paquetes creados para estos objetivos.
 
 
-# Principales debilidades de Python
-
-### Problemas con hosting. 
-Existen muchos servidores que no soportan Python y en caso de hacerlo, su configuración suele ser compleja.
 
 
 
