@@ -25,8 +25,7 @@ Python es un lenguaje que permite crear tanto, aplicaciones web, aplicaciones de
 
 ### Problemas con hosting. 
 Existen muchos servidores que no soportan Python y en caso de hacerlo, su configuración suele ser compleja.
-### Lentitud al ejecutar múltiples hilos. 
-A pesar de que no necesita compilarse, si quieres ejecutar múltiples hilos de programación puede que no aproveches toda la potencia de tu PC. Por ejemplo, pueden surgir errores por parte del intérprete o simplemente tener problemas para usar todos los núcleos del procesador.
+
 
 
 
